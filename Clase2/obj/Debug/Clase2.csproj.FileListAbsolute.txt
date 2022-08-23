@@ -1,0 +1,10 @@
+C:\Users\Alumnos\source\repos\POO-IPVG\Clase2\obj\Debug\Clase2.csprojAssemblyReference.cache
+C:\Users\Alumnos\source\repos\POO-IPVG\Clase2\obj\Debug\Clase2.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\POO-IPVG\Clase2\bin\Debug\Clase2.exe.config
+C:\Users\Alumnos\source\repos\POO-IPVG\Clase2\bin\Debug\Clase2.exe
+C:\Users\Alumnos\source\repos\POO-IPVG\Clase2\bin\Debug\Clase2.pdb
+C:\Users\Alumnos\source\repos\POO-IPVG\Clase2\bin\Debug\Modelos.dll
+C:\Users\Alumnos\source\repos\POO-IPVG\Clase2\bin\Debug\Modelos.pdb
+C:\Users\Alumnos\source\repos\POO-IPVG\Clase2\obj\Debug\Clase2.csproj.CopyComplete
+C:\Users\Alumnos\source\repos\POO-IPVG\Clase2\obj\Debug\Clase2.exe
+C:\Users\Alumnos\source\repos\POO-IPVG\Clase2\obj\Debug\Clase2.pdb

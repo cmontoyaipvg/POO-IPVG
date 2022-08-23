@@ -1,0 +1,6 @@
+C:\Users\Alumnos\source\repos\POO-IPVG\Modelos\bin\Debug\Modelos.dll
+C:\Users\Alumnos\source\repos\POO-IPVG\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Alumnos\source\repos\POO-IPVG\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache
+C:\Users\Alumnos\source\repos\POO-IPVG\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\POO-IPVG\Modelos\obj\Debug\Modelos.dll
+C:\Users\Alumnos\source\repos\POO-IPVG\Modelos\obj\Debug\Modelos.pdb
