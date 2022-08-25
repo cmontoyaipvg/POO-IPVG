@@ -11,16 +11,18 @@ namespace Modelos
         public string cpu;
         public int ram;
         private string modelo;
-        public int disco;
         public string marca;
-        private int precio;
+        protected int precio;
 
+        public Computador()
+        {
+
+        }
         public Computador(int cantidadRam, int cantidadDisco)
         {
             ram = cantidadRam;
             marca = "HP";
             cpu = "I7 89788";
-            disco = cantidadDisco;
             modelo = "Pavilion";
         }
 
@@ -33,4 +35,5 @@ namespace Modelos
             this.modelo = modelo;
         }
     }
+
 }
