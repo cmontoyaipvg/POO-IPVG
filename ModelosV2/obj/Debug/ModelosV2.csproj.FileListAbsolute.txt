@@ -1,0 +1,6 @@
+C:\Users\Alumnos\Desktop\POO\ModelosV2\bin\Debug\ModelosV2.dll
+C:\Users\Alumnos\Desktop\POO\ModelosV2\bin\Debug\ModelosV2.pdb
+C:\Users\Alumnos\Desktop\POO\ModelosV2\obj\Debug\ModelosV2.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\POO\ModelosV2\obj\Debug\ModelosV2.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\POO\ModelosV2\obj\Debug\ModelosV2.dll
+C:\Users\Alumnos\Desktop\POO\ModelosV2\obj\Debug\ModelosV2.pdb

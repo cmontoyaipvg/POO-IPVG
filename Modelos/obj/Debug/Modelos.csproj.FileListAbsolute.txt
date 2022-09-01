@@ -4,3 +4,9 @@ C:\Users\Alumnos\source\repos\POO-IPVG\Modelos\obj\Debug\Modelos.csprojAssemblyR
 C:\Users\Alumnos\source\repos\POO-IPVG\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
 C:\Users\Alumnos\source\repos\POO-IPVG\Modelos\obj\Debug\Modelos.dll
 C:\Users\Alumnos\source\repos\POO-IPVG\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Alumnos\Desktop\POO\Modelos\bin\Debug\Modelos.dll
+C:\Users\Alumnos\Desktop\POO\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Alumnos\Desktop\POO\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\POO\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\POO\Modelos\obj\Debug\Modelos.dll
+C:\Users\Alumnos\Desktop\POO\Modelos\obj\Debug\Modelos.pdb
