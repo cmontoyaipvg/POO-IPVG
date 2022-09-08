@@ -21,3 +21,7 @@ C:\Users\Alumnos\Desktop\POO\Clase2\obj\Debug\Clase2.csproj.CoreCompileInputs.ca
 C:\Users\Alumnos\Desktop\POO\Clase2\obj\Debug\Clase2.csproj.CopyComplete
 C:\Users\Alumnos\Desktop\POO\Clase2\obj\Debug\Clase2.exe
 C:\Users\Alumnos\Desktop\POO\Clase2\obj\Debug\Clase2.pdb
+C:\Users\Alumnos\Desktop\POO\Clase2\bin\Debug\Datos.dll
+C:\Users\Alumnos\Desktop\POO\Clase2\bin\Debug\Practico.dll
+C:\Users\Alumnos\Desktop\POO\Clase2\bin\Debug\Datos.pdb
+C:\Users\Alumnos\Desktop\POO\Clase2\bin\Debug\Practico.pdb

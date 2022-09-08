@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Datos;
 using ModelosV2;
+using Practico;
+
 namespace Clase2
 {
     class Program
@@ -18,18 +21,22 @@ namespace Clase2
             //pc2.SetModelo("hpX turbo");
             //Console.WriteLine(pc2.ram + " " + pc2.marca + " " + pc2.disco+" "+pc2.GetModelo());
 
-            Persona p = new Persona();
-            p.rut = "111-1";
-            p.nombre = "Juan";
+            //Persona p = new Persona();
+            //p.rut = "111-1";
+            //p.nombre = "Juan";
 
-            Contacto contacto= new Contacto();
-            contacto.Nombre = p.nombre;
-            contacto.Telefono = "+56988888";
-            contacto.Mail = "aaaa@ssss.cl";
+            //Contacto contacto= new Contacto();
+            //contacto.Nombre = p.nombre;
+            //contacto.Telefono = "+56988888";
+            //contacto.Mail = "aaaa@ssss.cl";
 
-            p.AgregarContacto(contacto);
+            //p.AgregarContacto(contacto);
 
-            Console.WriteLine("Nombre:"+p.nombre+" Telefono:"+ p.TelefonoContacto());
+            //Console.WriteLine("Nombre:"+p.nombre+" Telefono:"+ p.TelefonoContacto());
+            Data dataSql = new Data();
+
+            List<Categoria> categorias= dataSql.getCategorias();
+
 
             Console.ReadKey();
 

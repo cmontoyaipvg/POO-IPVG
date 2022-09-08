@@ -1,0 +1,6 @@
+C:\Users\Alumnos\Desktop\POO\Practico\bin\Debug\Practico.dll
+C:\Users\Alumnos\Desktop\POO\Practico\bin\Debug\Practico.pdb
+C:\Users\Alumnos\Desktop\POO\Practico\obj\Debug\Practico.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\POO\Practico\obj\Debug\Practico.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\POO\Practico\obj\Debug\Practico.dll
+C:\Users\Alumnos\Desktop\POO\Practico\obj\Debug\Practico.pdb
