@@ -10,3 +10,8 @@ C:\Users\Alumnos\Desktop\POO\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.
 C:\Users\Alumnos\Desktop\POO\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
 C:\Users\Alumnos\Desktop\POO\Modelos\obj\Debug\Modelos.dll
 C:\Users\Alumnos\Desktop\POO\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Alumnos\Desktop\POO-IPVG\Modelos\bin\Debug\Modelos.dll
+C:\Users\Alumnos\Desktop\POO-IPVG\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Alumnos\Desktop\POO-IPVG\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\POO-IPVG\Modelos\obj\Debug\Modelos.dll
+C:\Users\Alumnos\Desktop\POO-IPVG\Modelos\obj\Debug\Modelos.pdb

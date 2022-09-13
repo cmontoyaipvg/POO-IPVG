@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32630.192
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase2", "Clase2\Clase2.csproj", "{FF7AB428-4A68-4A02-B757-14CE5F7FFC7B}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticoAPP", "PracticoAPP\PracticoAPP.csproj", "{6BDC405C-64DC-4509-94B6-C8389601CEEE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{1D72E494-0AE9-4179-A9D4-1CAE475A2F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practicoBL", "practicoBL\practicoBL.csproj", "{64189423-6224-4F53-A7DB-833BA5FCCAEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{1D72E494-0AE9-4179-A9D4-1CAE475A2F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D72E494-0AE9-4179-A9D4-1CAE475A2F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D72E494-0AE9-4179-A9D4-1CAE475A2F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64189423-6224-4F53-A7DB-833BA5FCCAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64189423-6224-4F53-A7DB-833BA5FCCAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64189423-6224-4F53-A7DB-833BA5FCCAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64189423-6224-4F53-A7DB-833BA5FCCAEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

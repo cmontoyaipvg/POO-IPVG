@@ -8,6 +8,7 @@ namespace Practico
 {
     public class Direccion
     {
+        public int codigo { get; set; }
         public string calle { get; set; }
         public string region { get; set; }
         public int numero { get; set; }
@@ -18,8 +19,9 @@ namespace Practico
 
         }
 
-        public Direccion(string calle, string region, int numero, string ciudad)
+        public Direccion(int codigo,string calle, string region, int numero, string ciudad)
         {
+            this.codigo = codigo;
             this.calle = calle;
             this.region = region;
             this.numero = numero;

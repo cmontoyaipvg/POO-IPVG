@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Datos;
 using ModelosV2;
 using Practico;
+using practicoBL;
 
 namespace Clase2
 {
@@ -33,9 +33,9 @@ namespace Clase2
             //p.AgregarContacto(contacto);
 
             //Console.WriteLine("Nombre:"+p.nombre+" Telefono:"+ p.TelefonoContacto());
-            Data dataSql = new Data();
+            CategoriaBL data = new CategoriaBL();
 
-            List<Categoria> categorias= dataSql.getCategorias();
+            List<Categoria> categorias= data.getCategorias();
 
 
             Console.ReadKey();

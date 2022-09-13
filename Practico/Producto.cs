@@ -13,17 +13,17 @@ namespace Practico
         public string descripcion { get; set; }
         public int precio { get; set; }
         public Categoria categoria { get; set; }
-        public List<Proveedor> proveedors { get; set; }
+        public List<Proveedor> proveedores { get; set; }
 
         public Producto(Categoria categoria)
         {
             this.categoria = categoria;
-            this.proveedors = new List<Proveedor>();
+            this.proveedores = new List<Proveedor>();
         }
 
         public void AsignaProveedor(Proveedor proveedor)
         {
-            proveedors.Add(proveedor);
+            proveedores.Add(proveedor);
         }
         
     }

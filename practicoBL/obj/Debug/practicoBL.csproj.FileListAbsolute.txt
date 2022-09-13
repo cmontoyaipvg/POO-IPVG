@@ -1,0 +1,11 @@
+C:\Users\Alumnos\Desktop\POO-IPVG\practicoBL\bin\Debug\practicoBL.dll
+C:\Users\Alumnos\Desktop\POO-IPVG\practicoBL\bin\Debug\practicoBL.pdb
+C:\Users\Alumnos\Desktop\POO-IPVG\practicoBL\bin\Debug\Datos.dll
+C:\Users\Alumnos\Desktop\POO-IPVG\practicoBL\bin\Debug\Practico.dll
+C:\Users\Alumnos\Desktop\POO-IPVG\practicoBL\bin\Debug\Datos.pdb
+C:\Users\Alumnos\Desktop\POO-IPVG\practicoBL\bin\Debug\Practico.pdb
+C:\Users\Alumnos\Desktop\POO-IPVG\practicoBL\obj\Debug\practicoBL.csprojAssemblyReference.cache
+C:\Users\Alumnos\Desktop\POO-IPVG\practicoBL\obj\Debug\practicoBL.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\POO-IPVG\practicoBL\obj\Debug\practicoBL.csproj.CopyComplete
+C:\Users\Alumnos\Desktop\POO-IPVG\practicoBL\obj\Debug\practicoBL.dll
+C:\Users\Alumnos\Desktop\POO-IPVG\practicoBL\obj\Debug\practicoBL.pdb

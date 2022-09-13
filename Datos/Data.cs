@@ -15,7 +15,8 @@ namespace Datos
 
         public Data()
         {
-            conexion = new SqlConnection("Data Source=PC31LAB108\\SQLEXPRESS;Initial Catalog=practico;User ID=sa;Password=ipvg2022");//Trusted_Connection=True
+            
+               conexion = new SqlConnection("Data Source=PC19LAB318\\SQLEXPRESS;Initial Catalog=practico;User ID=sa;Password=ipvg2022");//Trusted_Connection=True
         }
 
         public void conectar()
@@ -33,22 +34,17 @@ namespace Datos
             }
         }
 
-        public List<Categoria> getCategorias() { 
-            List<Categoria> categorias = new List<Categoria>();
-
-            SqlCommand cmd = new SqlCommand("Select * from categoria",conexion);
+        public DataTable listarData(string query) {
             conectar();
-            SqlDataReader reader= cmd.ExecuteReader();
-            while (reader.Read()) {
-                Categoria item = new Categoria();
-                item.codigo = reader.GetInt32(0);
-                item.nombre = reader.GetString(1);
-                categorias.Add(item);
-            }
-            desconectar();  
-
-            return categorias;
-        }
+            SqlDataAdapter da = new SqlDataAdapter();
+            SqlCommand cmd = conexion.CreateCommand();
+            cmd.CommandText = query;
+            da.SelectCommand = cmd;
+            DataSet ds = new DataSet();
+            da.Fill(ds);
+            desconectar();
+            return ds.Tables[0];
+        }      
 
     }
 }
