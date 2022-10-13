@@ -1,0 +1,17 @@
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\bin\Release\AlamacenDesktop.exe.config
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\bin\Release\AlamacenDesktop.exe
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\bin\Release\AlamacenDesktop.pdb
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\bin\Release\Modelos.dll
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\bin\Release\Negocio.dll
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\bin\Release\Datos.dll
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\bin\Release\Modelos.pdb
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\bin\Release\Negocio.pdb
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\bin\Release\Datos.pdb
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\obj\Release\AlamacenDesktop.csproj.AssemblyReference.cache
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\obj\Release\AlamacenDesktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\obj\Release\AlamacenDesktop.Properties.Resources.resources
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\obj\Release\AlamacenDesktop.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\obj\Release\AlamacenDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\obj\Release\AlamacenDesktop.csproj.CopyComplete
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\obj\Release\AlamacenDesktop.exe
+C:\Users\Alumnos\source\repos\AlmacenAPP\AlamacenDesktop\obj\Release\AlamacenDesktop.pdb

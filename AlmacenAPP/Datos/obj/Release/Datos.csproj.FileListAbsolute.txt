@@ -1,0 +1,6 @@
+C:\Users\Alumnos\source\repos\AlmacenAPP\Datos\bin\Release\Datos.dll
+C:\Users\Alumnos\source\repos\AlmacenAPP\Datos\bin\Release\Datos.pdb
+C:\Users\Alumnos\source\repos\AlmacenAPP\Datos\obj\Release\Datos.csproj.AssemblyReference.cache
+C:\Users\Alumnos\source\repos\AlmacenAPP\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\AlmacenAPP\Datos\obj\Release\Datos.dll
+C:\Users\Alumnos\source\repos\AlmacenAPP\Datos\obj\Release\Datos.pdb

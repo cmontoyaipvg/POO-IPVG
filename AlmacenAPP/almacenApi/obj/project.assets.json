@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Datos/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Datos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Datos.dll": {}
+        }
+      },
+      "Modelos/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Modelos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Modelos.dll": {}
+        }
+      },
+      "Negocio/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Datos": "1.0.0",
+          "Modelos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Negocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Negocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datos/1.0.0": {
+      "type": "project",
+      "path": "../Datos/Datos.csproj",
+      "msbuildProject": "../Datos/Datos.csproj"
+    },
+    "Modelos/1.0.0": {
+      "type": "project",
+      "path": "../Modelos/Modelos.csproj",
+      "msbuildProject": "../Modelos/Modelos.csproj"
+    },
+    "Negocio/1.0.0": {
+      "type": "project",
+      "path": "../Negocio/Negocio.csproj",
+      "msbuildProject": "../Negocio/Negocio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Modelos >= 1.0.0",
+      "Negocio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alumnos\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Alumnos\\source\\repos\\AlmacenAPP\\almacenApi\\almacenApi.csproj",
+      "projectName": "almacenApi",
+      "projectPath": "C:\\Users\\Alumnos\\source\\repos\\AlmacenAPP\\almacenApi\\almacenApi.csproj",
+      "packagesPath": "C:\\Users\\Alumnos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alumnos\\source\\repos\\AlmacenAPP\\almacenApi\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Alumnos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Alumnos\\source\\repos\\AlmacenAPP\\Modelos\\Modelos.csproj": {
+              "projectPath": "C:\\Users\\Alumnos\\source\\repos\\AlmacenAPP\\Modelos\\Modelos.csproj"
+            },
+            "C:\\Users\\Alumnos\\source\\repos\\AlmacenAPP\\Negocio\\Negocio.csproj": {
+              "projectPath": "C:\\Users\\Alumnos\\source\\repos\\AlmacenAPP\\Negocio\\Negocio.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

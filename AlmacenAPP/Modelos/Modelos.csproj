@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{64189423-6224-4F53-A7DB-833BA5FCCAEA}</ProjectGuid>
+    <ProjectGuid>{6B9B4809-C054-43D3-BABD-A2561E5F6DA5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>practicoBL</RootNamespace>
-    <AssemblyName>practicoBL</AssemblyName>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <RootNamespace>Modelos</RootNamespace>
+    <AssemblyName>Modelos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -42,20 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CategoriaBL.cs" />
-    <Compile Include="ICrud.cs" />
+    <Compile Include="Categoria.cs" />
+    <Compile Include="Direccion.cs" />
+    <Compile Include="Producto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="VendedorBL.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Datos\Datos.csproj">
-      <Project>{1d72e494-0ae9-4179-a9d4-1cae475a2f50}</Project>
-      <Name>Datos</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Practico\Practico.csproj">
-      <Project>{932d1080-a135-401a-b30c-19570efe9504}</Project>
-      <Name>Practico</Name>
-    </ProjectReference>
+    <Compile Include="Proveedor.cs" />
+    <Compile Include="Vendedor.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,11 @@
+C:\Users\Alumnos\source\repos\AlmacenAPP\Negocio\bin\Debug\Negocio.dll
+C:\Users\Alumnos\source\repos\AlmacenAPP\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Alumnos\source\repos\AlmacenAPP\Negocio\bin\Debug\Datos.dll
+C:\Users\Alumnos\source\repos\AlmacenAPP\Negocio\bin\Debug\Modelos.dll
+C:\Users\Alumnos\source\repos\AlmacenAPP\Negocio\bin\Debug\Datos.pdb
+C:\Users\Alumnos\source\repos\AlmacenAPP\Negocio\bin\Debug\Modelos.pdb
+C:\Users\Alumnos\source\repos\AlmacenAPP\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Alumnos\source\repos\AlmacenAPP\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\AlmacenAPP\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Alumnos\source\repos\AlmacenAPP\Negocio\obj\Debug\Negocio.dll
+C:\Users\Alumnos\source\repos\AlmacenAPP\Negocio\obj\Debug\Negocio.pdb

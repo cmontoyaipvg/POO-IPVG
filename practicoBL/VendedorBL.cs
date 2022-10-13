@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace practicoBL
 {
-    internal class VendedorBL
+    public class VendedorBL 
     {
+      
     }
 }
